@@ -1,6 +1,6 @@
 
 
-# 💫 About Me:
+# 💫 Sobre mim:
 Atualmente, estou trabalhando em projetos da área frontend e estudo conteúdos como React e TypeScript. Procuro sempre aprender mais a cada dia que passa nesse mundo tecnológico.<br>Quero poder colaborar em projetos da parte frontend das mais diversas finalidades a fim de aumentar minha bagagem profissional e meus conhecimentos sobre a área.<br>Sempre busco ajudar as pessoas o máximo que eu consigo para que todos possamos crescer juntos e trilhar nosso caminho no mundo da informática.<br>Além de estudante na área, sou um atleta com forte paixão pelo esporte.
 
 
