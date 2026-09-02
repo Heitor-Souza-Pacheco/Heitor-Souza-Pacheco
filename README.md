@@ -74,7 +74,7 @@ A aplicação permite o gerenciamento de dúvidas e respostas entre usuários, a
 `Java` `Spring Boot` `SQL` `REST API`
 
 <p>
-  <a href="https://github.com/Heitor-Souza-Pacheco">
+  <a href="https://github.com/Heitor-Souza-Pacheco/helpdesk-aplication">
     <img src="https://img.shields.io/badge/Ver%20projeto-1E3A8A?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -162,8 +162,8 @@ Atualmente no **2º ano**, com foco em tecnologia, desenvolvimento de software e
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Heitor-Souza-Pacheco&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitor-Souza-Pacheco&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Heitor-Souza-Pacheco&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitor-Souza-Pacheco&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 </p>
 
 ---
