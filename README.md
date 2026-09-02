@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou o Heitor Souza Pacheco!
-
 <p align="center">
   <img src="./assets/banner github.png" width="100%" alt="Heitor Souza Pacheco - Software Developer">
 </p>
