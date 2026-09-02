@@ -162,8 +162,8 @@ Atualmente no **2º ano**, com foco em tecnologia, desenvolvimento de software e
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heitor-Souza-Pacheco&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitor-Souza-Pacheco&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+  <img src="./profile/stats.svg" height="180"/>
+  <img src="./profile/top-langs.svg" height="180"/>
 </p>
 
 ---
