@@ -105,7 +105,7 @@ O aplicativo possui frontend desenvolvido em **Flutter** e backend desenvolvido 
 
 ---
 
-### 🏋️ Academia API — Sistema de Controle para Academias
+### 🏋️ Academia — Sistema de Controle para Academias
 
 API REST desenvolvida com **Java + Spring Boot** para gerenciamento de academias, usuários, fichas de treino e exercícios.
 
@@ -209,8 +209,8 @@ Atualmente no **2º ano**, com foco em tecnologia, desenvolvimento de software e
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg?v=2" height="180"/>
-  <img src="./profile/top-langs.svg?v=2" height="180"/>
+  <img src="https://raw.githubusercontent.com/Heitor-Souza-Pacheco/Heitor-Souza-Pacheco/main/profile/stats.svg?v=3" height="180"/>
+  <img src="https://raw.githubusercontent.com/Heitor-Souza-Pacheco/Heitor-Souza-Pacheco/main/profile/top-langs.svg?v=3" height="180"/>
 </p>
 
 ---
