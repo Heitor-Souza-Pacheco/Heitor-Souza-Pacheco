@@ -33,3 +33,264 @@ while (learning) {
     build();
     evolve();
 }
+```
+
+---
+
+## 🚀 Projetos em destaque
+
+<p align="center">
+  <strong>Projetos que melhor representam minha experiência e meus conhecimentos em desenvolvimento.</strong>
+</p>
+
+---
+
+### 🎫 HelpDesk
+
+> Plataforma de perguntas e respostas com autenticação, gerenciamento de usuários e integração entre frontend e backend.
+
+**Tecnologias:**
+
+`Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `HTML` `CSS` `JavaScript`
+
+**Destaques:**
+
+- 🔐 Autenticação com JWT
+- 👤 Gerenciamento de usuários
+- 💬 Sistema de perguntas e respostas
+- 🛡️ Spring Security
+- 🗄️ PostgreSQL
+- 🖥️ Frontend integrado à API
+
+<p align="center">
+  <a href="https://github.com/Heitor-Souza-Pacheco/helpdesk-aplication">
+    <img src="https://img.shields.io/badge/⚙️%20HelpDesk%20API-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/Heitor-Souza-Pacheco/helpdesk-frontend">
+    <img src="https://img.shields.io/badge/🖥️%20HelpDesk%20Frontend-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+### 🌱 RotinaApp
+
+> Aplicativo mobile desenvolvido para organização de rotina e acompanhamento de hábitos, integrado a uma API REST.
+
+**Tecnologias:**
+
+`Flutter` `Dart` `Provider` `JWT` `REST API` `Spring Boot`
+
+**Destaques:**
+
+- 📱 Aplicativo mobile
+- 📝 Gerenciamento de hábitos
+- ⏰ Sistema de lembretes
+- 🔔 Notificações
+- 🔥 Sistema de Streak
+- 📊 Estatísticas e gráficos
+- 🔐 Autenticação JWT
+- 🔗 Integração com backend
+
+<p align="center">
+  <a href="https://github.com/Heitor-Souza-Pacheco/rotinaAPP-front">
+    <img src="https://img.shields.io/badge/📱%20RotinaApp%20Frontend-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/Heitor-Souza-Pacheco/appRotina-API">
+    <img src="https://img.shields.io/badge/⚙️%20RotinaApp%20API-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+### 🏋️ Academia
+
+> Sistema para gerenciamento de academias, fichas de treino e exercícios, com foco em segurança e controle de acesso.
+
+**Tecnologias:**
+
+`Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `REST API`
+
+**Destaques:**
+
+- 🔐 Autenticação JWT
+- 🛡️ Controle de acesso por papéis
+- 📧 Confirmação de e-mail
+- 🚦 Rate Limiting
+- 🏋️ Gerenciamento de fichas de treino
+- 🏃 Gerenciamento de exercícios
+- 🎥 Vídeos demonstrativos
+- 🗄️ PostgreSQL
+- 🔒 Recursos de segurança
+
+<p align="center">
+  <a href="https://github.com/Heitor-Souza-Pacheco/academia">
+    <img src="https://img.shields.io/badge/⚙️%20Academia%20API-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/Heitor-Souza-Pacheco/academia-front">
+    <img src="https://img.shields.io/badge/🖥️%20Academia%20Frontend-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>💡 Confira os repositórios para conhecer os projetos em detalhes.</strong>
+</p>
+
+---
+
+## ⚡ Tecnologias & Ferramentas
+
+### 💻 Desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cs,html,css,js,flutter,dart" />
+</p>
+
+### 🗄️ Banco de Dados & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,kubernetes" />
+</p>
+
+### 🛠️ Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" />
+</p>
+
+---
+
+## 💼 Experiência
+
+### 🏢 Drogaria Araujo
+
+**Estagiário de Tecnologia**  
+`Abril 2026 — Atual`
+
+- Desenvolvimento e manutenção de soluções internas utilizando Java.
+- Participação na resolução de problemas técnicos.
+- Automação de processos.
+- Utilização de Docker, Kubernetes e SQL.
+- Trabalho em equipe seguindo boas práticas de desenvolvimento.
+
+### 🎥 Freelancer & Filmmaker
+
+**Jan/2025 — Dez/2025**
+
+- Produção e edição de conteúdos audiovisuais para eventos.
+- Atendimento e alinhamento de demandas com clientes.
+- Desenvolvimento de habilidades de comunicação, responsabilidade e trabalho em equipe.
+
+---
+
+## 🏆 Conquistas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇%20Campeão-Minas%20Summit%202026-1E3A8A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🏅%20The%20Best-Melhor%20Aluno-3B82F6?style=for-the-badge"/>
+</p>
+
+### 🥇 Minas Summit 2026 — Hackathon Startup da Quebrada
+
+**Campeão**
+
+Experiência envolvendo:
+
+- Desenvolvimento de solução para um problema real.
+- Trabalho em equipe multidisciplinar.
+- Aplicação de conhecimentos técnicos e de negócios.
+- Comunicação e apresentação de projetos.
+- Desenvolvimento de soluções em ambiente de alta pressão.
+
+### 🏅 The Best — Colégio Cotemig
+
+Reconhecimento como **melhor aluno da turma**.
+
+### 📚 Outras participações
+
+- 🧠 OBI — Olimpíada Brasileira de Informática
+- 🧮 OBMEP — Olimpíada Brasileira de Matemática das Escolas Públicas
+
+---
+
+## 📜 Certificações
+
+| Certificação | Instituição |
+|---|---|
+| 🔐 Introduction to Cybersecurity | Cisco |
+| 🌐 HTML Essentials | Cisco |
+| 🎨 CSS Essentials | Cisco |
+| 🤖 Robótica — 30h | Cotemig |
+| 🖥️ Montagem e Configuração de Computadores — 30h | Cotemig |
+| 🌐 HTML5 e CSS3 — 40h | UP Cursos |
+| 📄 Google Workspace: Docs — Part 1 | Google |
+
+---
+
+## 🎓 Formação
+
+### Colégio Cotemig
+
+**Ensino Médio Técnico em Informática**  
+`2025 — 2027`
+
+Atualmente no **2º ano**, com foco em tecnologia, desenvolvimento de software e formação técnica.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="./profile/stats.svg" height="180"/>
+  <img src="./profile/top-langs.svg" height="180"/>
+</p>
+
+---
+
+## 🔥 Atividade no GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Heitor-Souza-Pacheco&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Heitor-Souza-Pacheco/Heitor-Souza-Pacheco/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Heitor-Souza-Pacheco/Heitor-Souza-Pacheco/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Heitor-Souza-Pacheco/Heitor-Souza-Pacheco/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+## 🌎 Idiomas
+
+🇧🇷 **Português** — Nativo  
+🇺🇸 **Inglês** — Intermediário
+
+---
+
+## 📫 Vamos conversar?
+
+<p align="center">
+  <a href="https://linkedin.com/in/heitor-souza-pacheco">
+    <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:heitorpacheco2009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>“Transformando ideias em soluções através da tecnologia.”</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1E3A8A,100:0D1117&height=100&section=footer"/>
+</p>
