@@ -37,115 +37,12 @@ while (learning) {
 
 ---
 
-## 🚀 Projetos em destaque
-
-<p align="center">
-  <strong>Projetos que melhor representam minha experiência e meus conhecimentos em desenvolvimento.</strong>
-</p>
-
----
-
-### 🎫 HelpDesk
-
-> Plataforma de perguntas e respostas com autenticação, gerenciamento de usuários e integração entre frontend e backend.
-
-**Tecnologias:**
-
-`Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `HTML` `CSS` `JavaScript`
-
-**Destaques:**
-
-- 🔐 Autenticação com JWT
-- 👤 Gerenciamento de usuários
-- 💬 Sistema de perguntas e respostas
-- 🛡️ Spring Security
-- 🗄️ PostgreSQL
-- 🖥️ Frontend integrado à API
-
-<p align="center">
-  <a href="https://github.com/Heitor-Souza-Pacheco/helpdesk-aplication">
-    <img src="https://img.shields.io/badge/⚙️%20HelpDesk%20API-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://github.com/Heitor-Souza-Pacheco/helpdesk-frontend">
-    <img src="https://img.shields.io/badge/🖥️%20HelpDesk%20Frontend-181717?style=for-the-badge&logo=github">
-  </a>
-</p>
-
----
-
-### 🌱 RotinaApp
-
-> Aplicativo mobile desenvolvido para organização de rotina e acompanhamento de hábitos, integrado a uma API REST.
-
-**Tecnologias:**
-
-`Flutter` `Dart` `Provider` `JWT` `REST API` `Spring Boot`
-
-**Destaques:**
-
-- 📱 Aplicativo mobile
-- 📝 Gerenciamento de hábitos
-- ⏰ Sistema de lembretes
-- 🔔 Notificações
-- 🔥 Sistema de Streak
-- 📊 Estatísticas e gráficos
-- 🔐 Autenticação JWT
-- 🔗 Integração com backend
-
-<p align="center">
-  <a href="https://github.com/Heitor-Souza-Pacheco/rotinaAPP-front">
-    <img src="https://img.shields.io/badge/📱%20RotinaApp%20Frontend-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://github.com/Heitor-Souza-Pacheco/appRotina-API">
-    <img src="https://img.shields.io/badge/⚙️%20RotinaApp%20API-181717?style=for-the-badge&logo=github">
-  </a>
-</p>
-
----
-
-### 🏋️ Academia
-
-> Sistema para gerenciamento de academias, fichas de treino e exercícios, com foco em segurança e controle de acesso.
-
-**Tecnologias:**
-
-`Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `REST API`
-
-**Destaques:**
-
-- 🔐 Autenticação JWT
-- 🛡️ Controle de acesso por papéis
-- 📧 Confirmação de e-mail
-- 🚦 Rate Limiting
-- 🏋️ Gerenciamento de fichas de treino
-- 🏃 Gerenciamento de exercícios
-- 🎥 Vídeos demonstrativos
-- 🗄️ PostgreSQL
-- 🔒 Recursos de segurança
-
-<p align="center">
-  <a href="https://github.com/Heitor-Souza-Pacheco/academia">
-    <img src="https://img.shields.io/badge/⚙️%20Academia%20API-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://github.com/Heitor-Souza-Pacheco/academia-front">
-    <img src="https://img.shields.io/badge/🖥️%20Academia%20Frontend-181717?style=for-the-badge&logo=github">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <strong>💡 Confira os repositórios para conhecer os projetos em detalhes.</strong>
-</p>
-
----
-
 ## ⚡ Tecnologias & Ferramentas
 
 ### 💻 Desenvolvimento
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,cs,html,css,js,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cs,html,css,js" />
 </p>
 
 ### 🗄️ Banco de Dados & DevOps
@@ -158,6 +55,75 @@ while (learning) {
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" />
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+### 💬 HelpDesk — Sistema de Fórum & Perguntas e Respostas
+
+Sistema completo desenvolvido com **Java + Spring Boot**, voltado para gerenciamento de perguntas e respostas entre usuários.
+
+O projeto possui uma arquitetura baseada em API REST e conta com autenticação e autorização utilizando **JWT**, integração com PostgreSQL e Spring Security.
+
+**Tecnologias:**
+
+`Java 21` `Spring Boot` `Spring Security` `JWT` `JPA` `Hibernate` `PostgreSQL` `Maven`
+
+<p>
+  <a href="https://github.com/Heitor-Souza-Pacheco/helpdesk-aplication">
+    <img src="https://img.shields.io/badge/Backend-1E3A8A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Heitor-Souza-Pacheco/helpdesk-frontend">
+    <img src="https://img.shields.io/badge/Frontend-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🌱 RotinaApp — Aplicativo de Rotina e Hábitos
+
+Aplicação desenvolvida para auxiliar no gerenciamento de **hábitos e tarefas diárias**, permitindo acompanhar a evolução e manter uma rotina consistente.
+
+O sistema possui autenticação, criação e gerenciamento de hábitos, lembretes, conclusão de tarefas e sistema de **streaks** para acompanhar sequências de dias concluídos.
+
+O aplicativo possui frontend desenvolvido em **Flutter** e backend desenvolvido com **Java + Spring Boot**.
+
+**Tecnologias:**
+
+`Flutter` `Dart` `Java` `Spring Boot` `JWT` `PostgreSQL` `REST API`
+
+<p>
+  <a href="https://github.com/Heitor-Souza-Pacheco/rotinaAPP-front">
+    <img src="https://img.shields.io/badge/Frontend-1E3A8A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Heitor-Souza-Pacheco/appRotina-API">
+    <img src="https://img.shields.io/badge/Backend-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🏋️ Academia API — Sistema de Controle para Academias
+
+API REST desenvolvida com **Java + Spring Boot** para gerenciamento de academias, usuários, fichas de treino e exercícios.
+
+O sistema possui diferentes níveis de acesso, incluindo funcionalidades específicas para usuários com papel de **personal trainer**, que podem criar fichas de treino e associar exercícios aos alunos.
+
+O projeto também possui mecanismos de segurança mais avançados, como **autenticação JWT, confirmação de e-mail e rate limiting**, além de integração com PostgreSQL para armazenamento dos dados e vídeos dos exercícios.
+
+**Tecnologias:**
+
+`Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `JPA` `REST API`
+
+<p>
+  <a href="https://github.com/Heitor-Souza-Pacheco/academia">
+    <img src="https://img.shields.io/badge/Backend-1E3A8A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Heitor-Souza-Pacheco/academia-front">
+    <img src="https://img.shields.io/badge/Frontend-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -243,8 +209,8 @@ Atualmente no **2º ano**, com foco em tecnologia, desenvolvimento de software e
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180"/>
-  <img src="./profile/top-langs.svg" height="180"/>
+  <img src="./profile/stats.svg?v=2" height="180"/>
+  <img src="./profile/top-langs.svg?v=2" height="180"/>
 </p>
 
 ---
@@ -261,9 +227,15 @@ Atualmente no **2º ano**, com foco em tecnologia, desenvolvimento de software e
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Heitor-Souza-Pacheco/Heitor-Souza-Pacheco/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Heitor-Souza-Pacheco/Heitor-Souza-Pacheco/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Heitor-Souza-Pacheco/Heitor-Souza-Pacheco/output/github-contribution-grid-snake.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Heitor-Souza-Pacheco/Heitor-Souza-Pacheco/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Heitor-Souza-Pacheco/Heitor-Souza-Pacheco/output/github-contribution-grid-snake.svg">
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Heitor-Souza-Pacheco/Heitor-Souza-Pacheco/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
