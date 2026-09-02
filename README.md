@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Heitor Souza Pacheco!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:3B82F6&height=220&section=header&text=Heitor%20Souza%20Pacheco&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Estudante%20de%20Inform%C3%A1tica&descAlignY=58&descSize=18" width="100%"/>
+  <img src="./assets/banner github.png" width="100%" alt="Heitor Souza Pacheco - Software Developer">
 </p>
 
 <p align="center">
