@@ -169,7 +169,7 @@ Atualmente no **2º ano**, com foco em tecnologia, desenvolvimento de software e
 ## 🔥 Atividade no GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Heitor-Souza-Pacheco&theme=github-dark-blue&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Heitor-Souza-Pacheco&theme=github-dark-blue&hide_border=true&v=2"/>
 </p>
 
 ---
