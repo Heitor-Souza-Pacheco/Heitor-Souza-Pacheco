@@ -59,24 +59,100 @@ while (learning) {
 
 ---
 
-## 🚀 Projeto em destaque
+---
 
-### 💬 Sistema de Fórum & Helpdesk
+## 🚀 Projetos Principais
 
-Sistema desenvolvido utilizando **Java + Spring Boot**, inspirado em plataformas de fórum e helpdesk.
+Projetos desenvolvidos com foco em **desenvolvimento de software, APIs REST, autenticação, segurança, banco de dados e integração entre aplicações**.
 
-A aplicação permite o gerenciamento de dúvidas e respostas entre usuários, aplicando conceitos de desenvolvimento de APIs e arquitetura de software.
+### 💬 HelpDesk — Sistema de Fórum e Perguntas
 
-**Tecnologias utilizadas:**
+Plataforma de perguntas e respostas desenvolvida com **Java + Spring Boot**, permitindo que usuários cadastrem dúvidas, respostas e gerenciem seus perfis.
 
-`Java` `Spring Boot` `SQL` `REST API`
+O projeto possui autenticação baseada em **JWT**, Spring Security, persistência com JPA/Hibernate e integração com PostgreSQL.
+
+**Tecnologias:**
+
+`Java 21` `Spring Boot` `Spring Security` `JWT` `JPA` `Hibernate` `PostgreSQL` `Maven`
 
 <p>
   <a href="https://github.com/Heitor-Souza-Pacheco/helpdesk-aplication">
-    <img src="https://img.shields.io/badge/Ver%20projeto-1E3A8A?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Backend-1E3A8A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Heitor-Souza-Pacheco/helpdesk-frontend">
+    <img src="https://img.shields.io/badge/Frontend-3B82F6?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
+---
+
+### 🌱 RotinaApp — Aplicativo de Rotina e Hábitos
+
+Aplicação desenvolvida para gerenciamento de **rotinas e hábitos**, permitindo ao usuário criar tarefas, definir horários de lembrete, acompanhar conclusões e visualizar sua evolução.
+
+O sistema possui autenticação JWT, notificações, gerenciamento de hábitos, estatísticas, sequência de dias concluídos (**streak**) e integração entre aplicativo mobile e API.
+
+**Backend:**
+
+`Java` `Spring Boot` `JWT` `PostgreSQL` `REST API`
+
+**Frontend:**
+
+`Flutter` `Dart` `Provider` `HTTP` `Flutter Secure Storage`
+
+**Funcionalidades:**
+
+- 🔐 Cadastro e login com JWT
+- 📝 Criação e edição de hábitos
+- ⏰ Lembretes e notificações
+- ✅ Marcação de hábitos concluídos
+- 🔥 Sistema de streak
+- 📊 Estatísticas de conclusão
+- 👤 Gerenciamento de perfil
+- 📱 Aplicação mobile em Flutter
+
+<p>
+  <a href="https://github.com/Heitor-Souza-Pacheco/appRotina-API">
+    <img src="https://img.shields.io/badge/Backend-1E3A8A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Heitor-Souza-Pacheco/rotinaAPP-front">
+    <img src="https://img.shields.io/badge/Mobile-3B82F6?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🏋️ Academia — API de Controle para Academias
+
+Sistema desenvolvido com **Java + Spring Boot** para gerenciamento de academias, usuários, fichas de treino e exercícios.
+
+A API possui mecanismos de segurança e autenticação, incluindo **JWT, confirmação de e-mail e rate limiting**, além de integração com PostgreSQL.
+
+Usuários com perfil de **personal trainer** podem criar fichas de treino e associar vídeos demonstrativos aos exercícios a partir de um banco de vídeos.
+
+**Tecnologias:**
+
+`Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `JPA` `REST API`
+
+**Destaques:**
+
+- 🔐 Autenticação e autorização com JWT
+- ✉️ Confirmação de cadastro por e-mail
+- 🛡️ Rate limiting
+- 🔒 Camadas adicionais de segurança
+- 🏋️ Gerenciamento de fichas de treino
+- 🎥 Banco de vídeos de exercícios
+- 👨‍🏫 Controle de acesso para personal trainers
+- 🗄️ Persistência com PostgreSQL
+
+<p>
+  <a href="https://github.com/Heitor-Souza-Pacheco/academia">
+    <img src="https://img.shields.io/badge/Backend-1E3A8A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Heitor-Souza-Pacheco/academia-front">
+    <img src="https://img.shields.io/badge/Frontend-3B82F6?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ## 💼 Experiência
