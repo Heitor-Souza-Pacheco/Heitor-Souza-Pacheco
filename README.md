@@ -59,6 +59,53 @@ while (learning) {
 
 ---
 
+## 🏗️ Arquitetura & Desenvolvimento
+
+Tenho experiência desenvolvendo aplicações completas, trabalhando desde a interface até a camada de persistência.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,dart" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  ➜
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java,spring" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  ➜
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" height="50"/>
+</p>
+
+<p align="center">
+
+**Frontend / Mobile**  
+HTML • CSS • JavaScript • Flutter • Dart
+
+⬇️
+
+**API & Backend**  
+Java • Spring Boot • REST API • Spring Security • JWT
+
+⬇️
+
+**Persistência & Infraestrutura**  
+PostgreSQL • MySQL • Docker • Kubernetes
+
+</p>
+
+### 🔄 Experiência com integração
+
+```text
+Frontend / Mobile
+       ↓
+    REST API
+       ↓
+  Spring Boot
+       ↓
+Spring Security
+       ↓
+      JPA
+       ↓
+   PostgreSQL
 ---
 
 ## 🚀 Projetos Principais
