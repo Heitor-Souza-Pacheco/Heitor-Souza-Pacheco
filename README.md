@@ -106,6 +106,7 @@ Spring Security
       JPA
        ↓
    PostgreSQL
+```
 ---
 
 ## 🚀 Projetos Principais
